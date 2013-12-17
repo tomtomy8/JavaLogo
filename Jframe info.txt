@@ -1,0 +1,13 @@
+Jframes in java logo:
+
+JFrame Commander: This Frame is the frame in which you can type and exicute commands
+	JPanel Commands: This is the Pannel that includes the console of the commands already written
+		JTextField console: This is the textfield to contain all the commands already written
+	
+	JPanel Line: This is the pannel that includes the buttons and textbox to enter input and commands
+		JTextField commandInput
+		JButton commandSubmit
+		
+JFrame GUI:
+	LogoDrawer output
+    
