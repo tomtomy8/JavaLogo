@@ -5,9 +5,8 @@ JFrame Commander: This Frame is the frame in which you can type and exicute comm
 		JTextField console: This is the textfield to contain all the commands already written
 	
 	JPanel Line: This is the pannel that includes the buttons and textbox to enter input and commands
-		JTextField commandInput
-		JButton commandSubmit
+		JTextField commandInput: This is the textField in which the user enters the command
+		JButton commandSubmit: This is the button that the user will click to exicute the command
 		
-JFrame GUI:
-	LogoDrawer output
-    
+JFrame GUI: This is the Frame in which the turtle will move corroponding to the commands entered
+	LogoDrawer output: This is a custom class which we will design to move the turtle 
